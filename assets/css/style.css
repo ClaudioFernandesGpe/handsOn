@@ -3,12 +3,14 @@
 /* Components */
 @import "./header.css";
 @import "./buttons.css";
+@import "main.css";
 
 * {
-  margin: 30 0;
+  margin:  0;
   padding: 0;
   border: 0;
   font-size: 100%;
+  font-weight: 300;
   font: inherit;
   vertical-align: baseline;
   box-sizing: border-box;
