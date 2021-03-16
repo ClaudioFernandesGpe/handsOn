@@ -5,12 +5,12 @@ header section {
 
 header img {
   margin: 30px 0;
+  width: 200px;
 }
 
 header nav ul{
   display: flex;
   flex-direction: row;
-  list-style: none;
   align-items: center;
 }
 
